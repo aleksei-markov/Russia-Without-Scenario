@@ -2,49 +2,49 @@
     {
         "id": "nature",
         "name": "природа",
-        "icon": "assets/icons/nature.png",
+        "icon": "./assets/icons/nature.png",
         "color": "#6A9E5ACC"
     },
     {
         "id": "city",
         "name": "город",
-        "icon": "assets/icons/city.png",
+        "icon": "./assets/icons/city.png",
         "color": "#5B7FA3CC"
     },
     {
         "id": "architecture",
         "name": "архитектура",
-        "icon": "assets/icons/architecture.png",
+        "icon": "./assets/icons/architecture.png",
         "color": "#D9A520CC"
     },
     {
         "id": "event",
         "name": "ивент",
-        "icon": "assets/icons/event.png",
+        "icon": "./assets/icons/event.png",
         "color": "#B85D7CCC"
     },
     {
         "id": "culture",
         "name": "культура",
-        "icon": "assets/icons/culture.png",
+        "icon": "./assets/icons/culture.png",
         "color": "#8C6A4CCC"
     },
     {
         "id": "water",
         "name": "вода",
-        "icon": "assets/icons/water.png",
+        "icon": "./assets/icons/water.png",
         "color": "#4F92B9CC"
     },
     {
         "id": "sunset",
         "name": "закат",
-        "icon": "assets/icons/sunset.png",
+        "icon": "./assets/icons/sunset.png",
         "color": "#D9854FCC"
     },
     {
         "id": "photo",
         "name": "фотолокация",
-        "icon": "assets/icons/photo.png",
+        "icon": "./assets/icons/photo.png",
         "color": "#8A7BC4CC"
     }
 ]
