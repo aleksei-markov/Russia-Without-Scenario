@@ -1,0 +1,10 @@
+:root {
+    --space-xs: 5px;
+    --space-s: 10px;
+    --space-m: 20px;
+    --space-l: 50px;
+
+    --radius-s: 10px;
+    --radius-m: 30px;
+    --radius-l: 60px;
+}

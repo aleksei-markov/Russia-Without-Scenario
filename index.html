@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Россия без сценария</title>
+
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/variable.css">
+    <link rel="stylesheet" href="/css/fonts.css">
+    <link rel="stylesheet" href="/css/hero.css">
+    <link rel="stylesheet" href="/css/filters-section.css">
+    <link rel="stylesheet" href="/css/components.css">
+    <link rel="stylesheet" href="/css/cards.css">
+</head>
+<body>
+    <section class="hero">
+        <header class="hero-logo">
+            <img src="assets/logo.svg" alt="Россия без сценария">
+        </header>
+
+        <div class="hero-text">
+            <h1 class="hero-title">АГРЕГАТОР ТУРИСТИЧЕСКИХ МЕСТ ВОРОНЕЖСКОЙ ОБЛАСТИ</h1>
+            <h3 class="hero-description">Россия без сценария - инструмент для поиска интересных мест для путешествий, отдыха на природе и в городе</h3>
+        </div>
+    </section>
+
+    <section class="container filter-section">
+        <h3>Выберите фильтры</h3>
+        <div class="filters-container" id="filters-container">
+            <!-- Сюда JS подтягивает кнопки фильтров -->
+        </div>
+    </section>
+
+    <section class="places-section container">
+        <div class="places-container" id="places-container"></div>
+
+        <div class="no-results" id="no-results" hidden>
+            Ничего не найдено
+        </div>
+    </section>
+
+    <footer class="footer">
+
+    </footer>
+
+    <script src="/js/script.js"></script>
+</body>
+</html>

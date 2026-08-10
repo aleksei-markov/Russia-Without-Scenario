@@ -1,0 +1,35 @@
+.filter-btn {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+    padding: 5px 15px;
+
+    border: none;
+    border-radius: var(--radius-m);
+
+    background-color: var(--filter-color);
+    color: white;
+
+    cursor: pointer;
+}
+
+.filter-btn:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.filter-btn-icon {
+    width: 28px;
+    height: 28px;
+}
+
+.filter-btn-name {
+    font-family: Inter, sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+}
+
+.filter-btn.active {
+    background-color: var(--filter-color);
+    filter: brightness(0.85);
+}

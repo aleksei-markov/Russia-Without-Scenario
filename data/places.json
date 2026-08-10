@@ -1,0 +1,69 @@
+[
+    {
+        "id": "place-001",
+        "title": "Дивногорье",
+        "description": "Меловые горы, степи и необычные пейзажи",
+        "image": "/assets/places/divnogorie.jpg",
+        "tags": [
+            "nature",
+            "sunset"
+        ]
+    },
+
+    {
+        "id": "place-002",
+        "title": "Кривоборье",
+        "description": "Крутой изгиб Дона среди высоких меловых берегов",
+        "image": "/assets/places/krivoborie.jpg",
+        "tags": [
+            "nature",
+            "sunset"
+        ]
+    },
+
+    {
+        "id": "place-003",
+        "title": "Дворец Ольденбургских",
+        "description": "Дворец XIX века со старинной атмосферой",
+        "image": "/assets/places/olden-palace.jpg",
+        "tags": [
+            "culture",
+            "architecture",
+            "photo"
+        ]
+    },
+
+    {
+        "id": "place-004",
+        "title": "Гото Предестинация",
+        "description": "Реплика первого российского линейного корабля",
+        "image": "/assets/places/goto.webp",
+        "tags": [
+            "culture",
+            "water",
+            "photo"
+        ]
+    },
+
+    {
+        "id": "place-005",
+        "title": "Белый Колодец",
+        "description": "Большой меловой карьер с необычными белыми склонами и водой",
+        "image": "/assets/places/kolodec.jpg",
+        "tags": [
+            "nature",
+            "water",
+            "sunset"
+        ]
+    },
+
+    {
+        "id": "place-006",
+        "title": "Костёнки",
+        "description": "Археологический комплекс с доисторическим прошлым",
+        "image": "/assets/places/kostenki.jpg",
+        "tags": [
+            "culture"
+        ]
+    }
+]
