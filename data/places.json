@@ -3,7 +3,7 @@
         "id": "place-001",
         "title": "Дивногорье",
         "description": "Меловые горы, степи и необычные пейзажи",
-        "image": "assets/places/divnogorie.jpg",
+        "image": "../assets/places/divnogorie.jpg",
         "tags": [
             "nature",
             "sunset"
