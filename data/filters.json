@@ -18,15 +18,9 @@
         "color": "#D9A520CC"
     },
     {
-        "id": "event",
-        "name": "ивент",
-        "icon": "assets/icons/event.png",
-        "color": "#B85D7CCC"
-    },
-    {
-        "id": "culture",
-        "name": "культура",
-        "icon": "assets/icons/culture.png",
+        "id": "history",
+        "name": "история",
+        "icon": "assets/icons/history.png",
         "color": "#8C6A4CCC"
     },
     {
@@ -42,9 +36,9 @@
         "color": "#D9854FCC"
     },
     {
-        "id": "photo",
-        "name": "фотолокация",
-        "icon": "assets/icons/photo.png",
+        "id": "views",
+        "name": "красивые виды",
+        "icon": "assets/icons/views.png",
         "color": "#8A7BC4CC"
     }
 ]
